@@ -44,3 +44,13 @@ form {
   max-width: 768px;
   margin-inline: auto;
 }
+#bottone {
+  cursor: pointer;
+  background-color: #0ec017;
+  color: #efd7f5;
+  border: none;
+  width: 130px;
+  min-height: 36px;
+  font-weight: 700;
+  margin-left: 400;
+}
